@@ -5,6 +5,12 @@
 }
 
 body {
-    background-color: black;
-    color: white;
+    height: 100vh;
+    background-color: #000000;
+    color: #f6f6f6;
 }
+
+.titulo-destaque {
+    color: #22D4FD;
+}
+
